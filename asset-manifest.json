@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/guied-damro/static/css/main.f855e6bc.css",
-    "main.js": "/guied-damro/static/js/main.b9672b44.js",
+    "main.js": "/guied-damro/static/js/main.dbe1cc5e.js",
     "static/js/453.19692967.chunk.js": "/guied-damro/static/js/453.19692967.chunk.js",
-    "static/media/logo.svg": "/guied-damro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/guied-damro/index.html",
     "main.f855e6bc.css.map": "/guied-damro/static/css/main.f855e6bc.css.map",
-    "main.b9672b44.js.map": "/guied-damro/static/js/main.b9672b44.js.map",
+    "main.dbe1cc5e.js.map": "/guied-damro/static/js/main.dbe1cc5e.js.map",
     "453.19692967.chunk.js.map": "/guied-damro/static/js/453.19692967.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b9672b44.js"
+    "static/js/main.dbe1cc5e.js"
   ]
 }
